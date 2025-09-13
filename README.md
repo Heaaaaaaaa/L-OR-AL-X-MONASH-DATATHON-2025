@@ -7,10 +7,11 @@ AI-powered comment analysis system for beauty brand social media insights.
 
     LOREALXMONASH-DATATHON-2025/
     ├── README.md                    # Project documentation
+    ├── Submission.zip               # Complete project files
+        ├── CommentSense.ipynb       # Main data processing pipeline
+        └── Translate.ipynb          # Translation and relevance analysis
     ├── dashboard.py                 # Streamlit dashboard application
-    └── Submission.zip              # Complete project files
-        ├── CommentSense.ipynb      # Main data processing pipeline
-        └── Translate.ipynb         # Translation and relevance analysis
+    └── requirement.txt              # Requirement libraries for Streamlit
 ```
 
 ## 🚀 Quick Start for Dashboard
