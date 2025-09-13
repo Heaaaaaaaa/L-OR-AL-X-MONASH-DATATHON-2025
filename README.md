@@ -22,9 +22,6 @@ AI-powered comment analysis system for beauty brand social media insights.
    ```bash
    streamlit run dashboard.py
    ```
-OR
-
-3. **Open browser** to `http://localhost:8501`
 
 ## ✨ Features
 
