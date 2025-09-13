@@ -1,4 +1,4 @@
-# L-OR-AL-X-MONASH-DATATHON-2025
+# L'ORÉAL X MONASH-DATATHON-2025
 
 AI-powered comment analysis system for beauty brand social media insights.
 
