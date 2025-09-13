@@ -3,23 +3,25 @@
 AI-powered comment analysis system for beauty brand social media insights.
 
 ## Project Structure
-Submission/ <br>
-├── dashboard.py # Streamlit dashboard <br>
-├── CommentSense.ipynb # Main data processing pipeline <br>
-└── Translate.ipynb # Translation and relevance analysis 
+```markdown
 
+    LOREALXMONASH-DATATHON-2025/
+    ├── README.md                    # Project documentation
+    ├── dashboard.py                 # Streamlit dashboard application
+    └── Submission.zip              # Complete project files
+        ├── CommentSense.ipynb      # Main data processing pipeline
+        └── Translate.ipynb         # Translation and relevance analysis
+```
 
-## 🚀 Quick Start
+## 🚀 Quick Start for Dashboard
 
-1. **Install dependencies:**
-   ```bash
-   pip install streamlit pandas plotly scikit-learn nltk
-   ```
+1. **Run CommentSense to get "your_processed_data(En).csv":**
 
 2. **Run dashboard:**
    ```bash
    streamlit run dashboard.py
    ```
+OR
 
 3. **Open browser** to `http://localhost:8501`
 
@@ -55,4 +57,4 @@ Submission/ <br>
 
 ---
 
-**Team**: Heriot-Watt University | **Competition**: L'Oréal X Monash Datathon 2024
+**Team**: HAHA | **Competition**: L'Oréal X Monash Datathon 2024
