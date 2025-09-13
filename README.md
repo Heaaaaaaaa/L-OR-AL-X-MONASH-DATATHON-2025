@@ -6,6 +6,7 @@ AI-powered comment analysis system for beauty brand social media insights.
 ```markdown
 
     LOREALXMONASH-DATATHON-2025/
+    ├── CommentSense Dashboard.pdf   # Completed Dashboard
     ├── README.md                    # Project documentation
     ├── Submission.zip               # Complete project files
         ├── CommentSense.ipynb       # Main data processing pipeline
