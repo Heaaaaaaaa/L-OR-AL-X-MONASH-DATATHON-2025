@@ -55,4 +55,4 @@ AI-powered comment analysis system for beauty brand social media insights.
 
 ---
 
-**Team**: HAHA | **Competition**: L'Oréal X Monash Datathon 2024
+**Team**: HAHA | **Competition**: L'Oréal X Monash Datathon 2025
